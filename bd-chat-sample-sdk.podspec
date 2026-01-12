@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "bd-chat-sdk"
+  s.name             = "bd-chat-sample-sdk"
   s.version          = "1.0.0"
   s.summary          = "BoldDesk Support SDK"
   s.description      = <<-DESC
