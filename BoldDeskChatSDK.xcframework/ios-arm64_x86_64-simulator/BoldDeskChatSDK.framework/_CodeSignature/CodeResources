@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		bGPShH98skaU/zqBow/znlmd+lk=
+		SKCPQn1D8MUvCXfcowyebkRHiXo=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Sf2fWdMGpaoLqyG6Ry86JuNmRX4=
+		ezRvv5JmxVDGkptrINOesr7zyC0=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		bGPShH98skaU/zqBow/znlmd+lk=
+		SKCPQn1D8MUvCXfcowyebkRHiXo=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		s65xjWIWGqHH66q94kvrL0UhczI=
+		j7IFfbjd5KnmKSnb+U+CvGAHp7Q=
 		</data>
 		<key>bg.lproj/Localizable.strings</key>
 		<dict>
@@ -470,7 +470,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ABnYM7Wx/iTODPiAuA5PK0FoLSkupBkEMcxjyjzAjx0=
+			lSpTUh5oGdVcohRh+rsOeVGjtG/kmcABZlY8+B24fXs=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -498,14 +498,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZZn0dtZx8NZfvSMj/EtyNIv0S9V0HGKPxWPe546wFC0=
+			TQn2t3tBwIbNO4KRxhnCP3DA7b3RtO135nV6Qq6pNrE=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ABnYM7Wx/iTODPiAuA5PK0FoLSkupBkEMcxjyjzAjx0=
+			lSpTUh5oGdVcohRh+rsOeVGjtG/kmcABZlY8+B24fXs=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -533,7 +533,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P8q8ejjFQ91F6svpSejGRXd5MUMgsJyMZGaNK3CC7Bs=
+			47PHlUQiIcpI/IKMPCeMPhR/qHlyhuoxCIH2NlFVrDo=
 			</data>
 		</dict>
 		<key>bg.lproj/Localizable.strings</key>
