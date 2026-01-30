@@ -1076,8 +1076,43 @@
           },
           {
             "kind": "Function",
+            "name": "setUserToken",
+            "printedName": "setUserToken(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15BoldDeskChatSDK06BDChatD0V12setUserTokenyySSSgFZ",
+            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V12setUserTokenyySSSgFZ",
+            "moduleName": "BoldDeskChatSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "setPrefillFields",
-            "printedName": "setPrefillFields(email:name:phoneNo:fields:userToken:)",
+            "printedName": "setPrefillFields(email:name:phoneNo:fields:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1156,26 +1191,11 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:15BoldDeskChatSDK06BDChatD0V16setPrefillFields5email4name7phoneNo6fields9userTokenySSSg_A2JSDySSypGSgAJtFZ",
-            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V16setPrefillFields5email4name7phoneNo6fields9userTokenySSSg_A2JSDySSypGSgAJtFZ",
+            "usr": "s:15BoldDeskChatSDK06BDChatD0V16setPrefillFields5email4name7phoneNo6fieldsySSSg_A2ISDySSypGSgtFZ",
+            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V16setPrefillFields5email4name7phoneNo6fieldsySSSg_A2ISDySSypGSgtFZ",
             "moduleName": "BoldDeskChatSDK",
             "static": true,
             "declAttributes": [
@@ -3168,7 +3188,7 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 6942,
+      "offset": 6987,
       "length": 1,
       "value": "0"
     },
