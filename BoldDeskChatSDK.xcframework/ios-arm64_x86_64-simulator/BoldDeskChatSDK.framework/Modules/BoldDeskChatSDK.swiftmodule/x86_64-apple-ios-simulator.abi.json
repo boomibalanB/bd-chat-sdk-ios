@@ -4546,35 +4546,49 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/OptionSelectionViews.swift",
       "kind": "BooleanLiteral",
-      "offset": 209,
+      "offset": 249,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/OptionSelectionViews.swift",
       "kind": "BooleanLiteral",
-      "offset": 233,
+      "offset": 281,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/OptionSelectionViews.swift",
       "kind": "BooleanLiteral",
-      "offset": 2540,
+      "offset": 1876,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/OptionSelectionViews.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1908,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/OptionSelectionViews.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4518,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/OptionSelectionViews.swift",
       "kind": "Dictionary",
-      "offset": 3277,
+      "offset": 5347,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/OptionSelectionViews.swift",
       "kind": "IntegerLiteral",
-      "offset": 3330,
+      "offset": 5400,
       "length": 1,
       "value": "0"
     },
@@ -5638,7 +5652,7 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "BooleanLiteral",
-      "offset": 3986,
+      "offset": 3896,
       "length": 4,
       "value": "true"
     },
