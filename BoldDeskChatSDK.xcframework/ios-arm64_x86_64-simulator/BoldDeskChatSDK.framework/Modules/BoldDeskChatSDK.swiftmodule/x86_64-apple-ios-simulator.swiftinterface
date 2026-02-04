@@ -26,7 +26,10 @@ public struct BDChatSDK {
   public static var fcmToken: Swift.String?
   public static var customFontName: Swift.String?
   public static var applySystemFontSize: Swift.Bool
-  public static func configure(appKey: Swift.String, brandUrl: Swift.String)
+  public static var culture: Swift.String
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func configure(appKey: Swift.String, brandUrl: Swift.String, _ culture: Swift.String? = nil)
+  #endif
   #if compiler(>=5.3) && $NonescapableTypes
   public static func applyTheme(appbarColor: Swift.String? = nil, accentColor: Swift.String? = nil, backgroundColor: Swift.String? = nil, stickyButtonColor: Swift.String? = nil)
   #endif

@@ -961,9 +961,99 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "culture",
+            "printedName": "culture",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15BoldDeskChatSDK06BDChatD0V7cultureSSvpZ",
+            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V7cultureSSvpZ",
+            "moduleName": "BoldDeskChatSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15BoldDeskChatSDK06BDChatD0V7cultureSSvgZ",
+                "mangledName": "$s15BoldDeskChatSDK06BDChatD0V7cultureSSvgZ",
+                "moduleName": "BoldDeskChatSDK",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15BoldDeskChatSDK06BDChatD0V7cultureSSvsZ",
+                "mangledName": "$s15BoldDeskChatSDK06BDChatD0V7cultureSSvsZ",
+                "moduleName": "BoldDeskChatSDK",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15BoldDeskChatSDK06BDChatD0V7cultureSSvMZ",
+                "mangledName": "$s15BoldDeskChatSDK06BDChatD0V7cultureSSvMZ",
+                "moduleName": "BoldDeskChatSDK",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "configure",
-            "printedName": "configure(appKey:brandUrl:)",
+            "printedName": "configure(appKey:brandUrl:_:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -981,11 +1071,26 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:15BoldDeskChatSDK06BDChatD0V9configure6appKey8brandUrlySS_SStFZ",
-            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V9configure6appKey8brandUrlySS_SStFZ",
+            "usr": "s:15BoldDeskChatSDK06BDChatD0V9configure6appKey8brandUrl_ySS_S2SSgtFZ",
+            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V9configure6appKey8brandUrl_ySS_S2SSgtFZ",
             "moduleName": "BoldDeskChatSDK",
             "static": true,
             "declAttributes": [
@@ -3187,8 +3292,15 @@
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
+      "kind": "StringLiteral",
+      "offset": 869,
+      "length": 7,
+      "value": "\"en-US\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 6987,
+      "offset": 7146,
       "length": 1,
       "value": "0"
     },
@@ -5652,7 +5764,7 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "BooleanLiteral",
-      "offset": 3896,
+      "offset": 3695,
       "length": 4,
       "value": "true"
     },
