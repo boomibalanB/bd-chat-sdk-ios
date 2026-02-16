@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		2H3+6Ut3DnTAUiW7XMypG4AKAMk=
+		FRWcZA6fHN9sPie9HywNCrDF0Xs=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7Yq/Ob8sz76pO191nOA4d8RMjI8=
+		mYe2Em3hKd93IDcbz4zHEUZnhIM=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		2H3+6Ut3DnTAUiW7XMypG4AKAMk=
+		FRWcZA6fHN9sPie9HywNCrDF0Xs=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hr+G4vaOmt2L2pdeVH61wiwYbTA=
+		ArqX3glh/DkYpbu3y8ZQCFZv78Q=
 		</data>
 		<key>bg.lproj/Localizable.strings</key>
 		<dict>
@@ -135,7 +135,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sdDBGYDifAKhr7a9E8xn48NaRoU=
+			PkekhHR0E7xKLvebHCp14bxmJ7Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -470,7 +470,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lyjuaBlGVOKizwtLBQbGB6OIUb6KXB4M9fDW8Bh09xE=
+			5RCcFtaQrSCPQgF6jX8s6n7smnBc+PlDg5Z90BTppLQ=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -498,14 +498,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AkbsndkgUJfkc94pDmqLIQ4n5gETAFwCNS+ea8nkh6g=
+			TS7svtb66Bw5RYoVPahhu7PgQgePYP2xJUmCSJiKt+c=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lyjuaBlGVOKizwtLBQbGB6OIUb6KXB4M9fDW8Bh09xE=
+			5RCcFtaQrSCPQgF6jX8s6n7smnBc+PlDg5Z90BTppLQ=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -533,7 +533,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F9rf1A6aCRyILFBjdJ9dPHF0tFVEi844S0TC9r6/ycs=
+			5t9UCFy4cMNl7siRGx22HuDvTOhQXQhfVB3eWZ+Jnv4=
 			</data>
 		</dict>
 		<key>bg.lproj/Localizable.strings</key>
@@ -603,7 +603,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DZvb2V/sKg5rHopUV5sJhO56A6dSrJRPLBNUvryFRgc=
+			kCIbuYIAkOnG54aM6T1S/UMOp69mPz5pewK5KkdyTW4=
 			</data>
 			<key>optional</key>
 			<true/>
