@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uk9XVm6CK02cQuOHwQQeSZHcZ/c=
+		l6R950euMO0igZOXQNrvT2L3RVw=
 		</data>
 		<key>Inter-Bold.ttf</key>
 		<data>
@@ -30,43 +30,43 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FRWcZA6fHN9sPie9HywNCrDF0Xs=
+		j2bdqmq5DO2QDifvKYxTt31p+rc=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		pqP4FoM/AYo7D3dzfAGQ6HM6FD0=
+		RG0TURUQJr7UBf0q915mzfz9ncE=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		eE8OMwd25WhYO2NtKxW6N30EVh8=
+		KlF7nNg2iw/5jSLcowThM9+5prs=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pqP4FoM/AYo7D3dzfAGQ6HM6FD0=
+		RG0TURUQJr7UBf0q915mzfz9ncE=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mYe2Em3hKd93IDcbz4zHEUZnhIM=
+		GeWFWZKcs1ffLygajkdDPklq3yY=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FRWcZA6fHN9sPie9HywNCrDF0Xs=
+		j2bdqmq5DO2QDifvKYxTt31p+rc=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DZKAMDDtPwytOrkEp4syBbAfh2I=
+		RSVmYeWNkERlpCqS9a4zbpBvjVU=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Aa1uSgLdZGHFbNBaTsQvQvt/OI0=
+		ejKwqPluWk+TOibLj6Y0R57Sc5Y=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DZKAMDDtPwytOrkEp4syBbAfh2I=
+		RSVmYeWNkERlpCqS9a4zbpBvjVU=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ArqX3glh/DkYpbu3y8ZQCFZv78Q=
+		eZGSHYsFi2Cm0V1xX30lbM9i+k0=
 		</data>
 		<key>bg.lproj/Localizable.strings</key>
 		<dict>
@@ -470,70 +470,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5RCcFtaQrSCPQgF6jX8s6n7smnBc+PlDg5Z90BTppLQ=
+			SLjW4PGA1h2vQLJ/9TQMwLhqr5CAgTjvnJDfvxfS4h8=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nJg5l9df97R8rSe+tz3ATbs5lxX93aDKhDPQizJA2N0=
+			PuNXr4wyb86KmJhlPDxr5V7jl9WKyIqMA9O6Uyc4Imw=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XHJvEFwAThNF4IsP+bdS4/igXLJw/RZ7nXd2QoWL4DE=
+			EE15ObImx49NQJcqsxgi4hcaWhx0O1lya7RaSGfdBfk=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nJg5l9df97R8rSe+tz3ATbs5lxX93aDKhDPQizJA2N0=
+			PuNXr4wyb86KmJhlPDxr5V7jl9WKyIqMA9O6Uyc4Imw=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TS7svtb66Bw5RYoVPahhu7PgQgePYP2xJUmCSJiKt+c=
+			6WwfHJ9PMQUj+Zm5IhlNzqBaa3W/ZmrNmmS8qgY6zTc=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5RCcFtaQrSCPQgF6jX8s6n7smnBc+PlDg5Z90BTppLQ=
+			SLjW4PGA1h2vQLJ/9TQMwLhqr5CAgTjvnJDfvxfS4h8=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EBYHt5I+kcYs9DOic773AjAtGBrQ33lXjqVQT9q7p+c=
+			hloRwdhWVGHWdfgfRsmORNSrcJFnrd/Zmf2i7aHRVk0=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bmQyeOg43xK0WzNmS7pQPJCMJF3WKehBzet5uOOGm5Q=
+			n/88zPXqPAjNSbwb6R0HXf4EENkceZ+kfY3SfTwEvBg=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EBYHt5I+kcYs9DOic773AjAtGBrQ33lXjqVQT9q7p+c=
+			hloRwdhWVGHWdfgfRsmORNSrcJFnrd/Zmf2i7aHRVk0=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5t9UCFy4cMNl7siRGx22HuDvTOhQXQhfVB3eWZ+Jnv4=
+			/+cvauyzDDMXsQTE/B/mr/BeFLfo3adbRFkpfb8EbOM=
 			</data>
 		</dict>
 		<key>bg.lproj/Localizable.strings</key>
