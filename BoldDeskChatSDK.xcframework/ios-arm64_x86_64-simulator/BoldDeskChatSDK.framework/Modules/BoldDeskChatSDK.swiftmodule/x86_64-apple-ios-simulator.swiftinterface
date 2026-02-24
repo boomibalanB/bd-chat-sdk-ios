@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
 // swift-module-flags: -target x86_64-apple-ios14-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name BoldDeskChatSDK
-// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
 import AVFoundation
 import Combine
 import CoreText
@@ -28,6 +28,7 @@ public struct BDChatSDK {
   public static var applySystemFontSize: Swift.Bool
   public static var appKey: Swift.String
   public static var brandUrl: Swift.String
+  public static var isSDKOpen: Swift.Bool
   #if compiler(>=5.3) && $NonescapableTypes
   public static func configure(appKey: Swift.String, brandUrl: Swift.String, _ culture: Swift.String? = nil)
   #endif
@@ -40,7 +41,6 @@ public struct BDChatSDK {
   #if compiler(>=5.3) && $NonescapableTypes
   public static func setPrefillFields(email: Swift.String? = nil, name: Swift.String? = nil, phoneNo: Swift.String? = nil, fields: [Swift.String : Any]? = nil)
   #endif
-  public static func setPlatform(sdkPlatform: Swift.String, sdkVersion: Swift.String)
   public static func setup()
   public static var Theme: BoldDeskChatSDK.SDKTheme {
     get
@@ -52,6 +52,7 @@ public struct BDChatSDK {
   public static func enableLogging()
   public static func isChatOpen() -> Swift.Bool
   public static func showChat()
+  public static func handlePushNotification(userInfo: [Swift.AnyHashable : Any])
   public static func closeChat()
   public static func clearSession()
   public static func isFromChatSDK(userInfo: [Swift.AnyHashable : Any]) -> Swift.Bool
@@ -94,7 +95,6 @@ public enum ResourceManager {
   public static func registerFonts(_ fontFileNames: [Swift.String])
   public static func localized(_ key: Swift.String, value: Swift.String = "", comment: Swift.String = "") -> Swift.String
 }
-
 
 
 
