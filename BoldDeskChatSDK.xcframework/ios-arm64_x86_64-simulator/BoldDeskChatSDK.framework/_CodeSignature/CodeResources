@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		CabcKluEXkxeUPhi0MstGtoeXs0=
+		lhs4D12rAmKf4+cgH6d+RKix4e4=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xWhrqo+KAbPnKi+4sLKg9UnrWhM=
+		nUtIC98nhttilffER0TSvmZ2HzI=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xWhrqo+KAbPnKi+4sLKg9UnrWhM=
+		nUtIC98nhttilffER0TSvmZ2HzI=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NlwEgw1yu2eNIp9brLMlEeWn+Ig=
+		/ZA8i1e1upbhoWPoqqDVMt5Z1es=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CabcKluEXkxeUPhi0MstGtoeXs0=
+		lhs4D12rAmKf4+cgH6d+RKix4e4=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AMQTExeod7yyuJRzLf7B9LYCk+g=
+		G1eT4fDYOITK94JdCLhBCC2zf1g=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AMQTExeod7yyuJRzLf7B9LYCk+g=
+		G1eT4fDYOITK94JdCLhBCC2zf1g=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vBQIGlmDRHItrrn6gDppN/h1lMQ=
+		VMNQI5u1uflmRhR9RuHbYps7e/M=
 		</data>
 		<key>bg.lproj/Localizable.strings</key>
 		<dict>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CxdlYULDnC9vC9cnapYNdAUX7ZM=
+			ryvvOLPsHTaUkbTRw4EpkvePPhw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -508,14 +508,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wggM51CBMaPNhuyfDqr+mQs8ODp0H43sGJLuAd4W9BM=
+			BR8f3VeDBY1E64E81b746YOIhx6XtjHnmcoxhKDh0bI=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oXRmRyBz0z4EeKGykVXCKXhF2v5NUMOtLrMawIYeheU=
+			pcQ2OFtX8dvxIdyzflBgsr8J0OSF+Dx0i/2LJXNw/uM=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -529,28 +529,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oXRmRyBz0z4EeKGykVXCKXhF2v5NUMOtLrMawIYeheU=
+			pcQ2OFtX8dvxIdyzflBgsr8J0OSF+Dx0i/2LJXNw/uM=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kj0wqpPfNkZvZpudvqWACDPGGmrUhyZKBEV/7/Scl/c=
+			j2CUjt1McaJ38+/sjDJd2Qk4voqqmTKe2ScZcnIm74M=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wggM51CBMaPNhuyfDqr+mQs8ODp0H43sGJLuAd4W9BM=
+			BR8f3VeDBY1E64E81b746YOIhx6XtjHnmcoxhKDh0bI=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wi3dz8urXMu55Md9LyM3YcBjHXL/wY7yGSm6G6fbmRM=
+			nX4lrWaaI1X92W5+NFsFlrmmQTTLCMY02V6DWy0O4hw=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -564,14 +564,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wi3dz8urXMu55Md9LyM3YcBjHXL/wY7yGSm6G6fbmRM=
+			nX4lrWaaI1X92W5+NFsFlrmmQTTLCMY02V6DWy0O4hw=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			APgUXCADLkBDPVhOLd2utEGd1R1c02BZ5TiU/jy7yIs=
+			xuT+asSDw6iwew5TSzuE52mwuft5h/c5ckT1qCL5GAg=
 			</data>
 		</dict>
 		<key>bg.lproj/Localizable.strings</key>
@@ -641,7 +641,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D1T7h9UooDi2X9kPULfLXnWRLcDPRcn/rQ9HTfy6dLQ=
+			+HtjvZ43BUnvNXzabOzWRM96x2Dqlwg7MEK3+iJsFrs=
 			</data>
 			<key>optional</key>
 			<true/>

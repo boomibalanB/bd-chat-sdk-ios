@@ -41,6 +41,7 @@ public struct BDChatSDK {
   #if compiler(>=5.3) && $NonescapableTypes
   public static func setPrefillFields(email: Swift.String? = nil, name: Swift.String? = nil, phoneNo: Swift.String? = nil, fields: [Swift.String : Any]? = nil)
   #endif
+  public static func setPlatform(sdkPlatform: Swift.String, sdkVersion: Swift.String)
   public static func setup()
   public static var Theme: BoldDeskChatSDK.SDKTheme {
     get
