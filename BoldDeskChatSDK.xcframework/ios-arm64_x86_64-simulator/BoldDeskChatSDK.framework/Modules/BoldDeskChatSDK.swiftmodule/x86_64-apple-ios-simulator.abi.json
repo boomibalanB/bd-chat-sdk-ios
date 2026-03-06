@@ -3690,7 +3690,7 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 10530,
+      "offset": 13650,
       "length": 1,
       "value": "0"
     },
@@ -3712,258 +3712,279 @@
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
       "offset": 381,
-      "length": 101,
-      "value": "\"^(?=(?:[^\\d]*\\d){10})(?:\\+?\\d{1,4}[.\\s-]?)?(?:\\(?\\d{1,5}\\)?[.\\s-]?)?\\d+(?:[.\\s-]?\\d+)*$\""
+      "length": 17,
+      "value": "\"^\\+?\\d{4,15}$\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 511,
+      "offset": 427,
       "length": 8,
       "value": "10485760"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 589,
+      "offset": 505,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 648,
+      "offset": 564,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 758,
+      "offset": 674,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 798,
+      "offset": 714,
       "length": 705,
       "value": "\"^(?!.*(?:[\\u2700-\\u27bf]|(?:\\ud83c[\\udde6-\\uddff]){2}|[\\ud800-\\udbff][\\udc00-\\udfff]|[\\u0023-\\u0039]\\ufe0f?\\u20e3|\\u3299|\\u3297|\\u303d|\\u3030|\\u24c2|\\ud83c[\\udd70-\\udd71]|\\ud83c[\\udd7e-\\udd7f]|\\ud83c\\udd8e|\\ud83c[\\udd91-\\udd9a]|\\ud83c[\\udde6-\\uddff]|\\ud83c[\\ude01-\\ude02]|\\ud83c\\ude1a|\\ud83c\\ude2f|\\ud83c[\\ude32-\\ude3a]|\\ud83c[\\ude50-\\ude51]|\\u203c|\\u2049|[\\u25aa-\\u25ab]|\\u25b6|\\u25c0|[\\u25fb-\\u25fe]|\\u00a9|\\u00ae|\\u2122|\\u2139|\\ud83c\\udc04|[\\u2600-\\u26FF]|\\u2b05|\\u2b06|\\u2b07|\\u2b1b|\\u2b1c|\\u2b50|\\u2b55|\\u231a|\\u231b|\\u2328|\\u23cf|[\\u23e9-\\u23f3]|[\\u23f8-\\u23fa]|\\ud83c\\udccf|\\u2934|\\u2935|[\\u2190-\\u21ff]|[\\<])).*$\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "Dictionary",
-      "offset": 1557,
+      "offset": 1473,
       "length": 151,
       "value": "[(\"datetime\", [\"1900-01-01T00:00:00.000Z\", \"2099-12-31T23:59:00.000Z\"]), (\"date\", [\"1900-01-01\", \"2099-12-31\"])]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1753,
+      "offset": 1669,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1806,
+      "offset": 1722,
       "length": 4,
       "value": "3000"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1847,
+      "offset": 1763,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1892,
+      "offset": 1808,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 1974,
+      "offset": 1890,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 2070,
+      "offset": 1986,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 2136,
+      "offset": 2052,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2182,
+      "offset": 2098,
       "length": 27,
       "value": "\"https:\/\/www.bolddesk.com\/\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "Array",
-      "offset": 2247,
+      "offset": 2163,
       "length": 44,
       "value": "[\"emailId\", \"contactName\", \"contactPhoneNo\"]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2320,
+      "offset": 2236,
       "length": 64,
       "value": "\"https:\/\/97c1fba6823e91af7c8520a419ef99cb@logs.bolddesk.com\/137\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2415,
+      "offset": 2331,
       "length": 12,
       "value": "\"Production\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2457,
+      "offset": 2373,
       "length": 7,
       "value": "\"1.0.0\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2491,
+      "offset": 2407,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2525,
+      "offset": 2441,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2555,
+      "offset": 2471,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2589,
+      "offset": 2505,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2660,
+      "offset": 2593,
+      "length": 92,
+      "value": "\"https:\/\/storage.googleapis.com\/cdn-bolddesk\/agent-angular-app\/images\/bold-desk-logo_v1.png\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 2707,
       "length": 13,
       "value": "\"buttonColor\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2689,
+      "offset": 2736,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2737,
+      "offset": 2784,
       "length": 21,
       "value": "\"chatBackgroundColor\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2774,
+      "offset": 2821,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2830,
+      "offset": 2877,
       "length": 13,
       "value": "\"appBarColor\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2859,
+      "offset": 2906,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2907,
+      "offset": 2954,
       "length": 19,
       "value": "\"stickyButtonColor\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2942,
+      "offset": 2989,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2996,
+      "offset": 3043,
       "length": 20,
       "value": "\"customThemeApplied\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3032,
+      "offset": 3079,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3080,
+      "offset": 3127,
       "length": 14,
       "value": "\"languageCode\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3110,
+      "offset": 3157,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3159,
+      "offset": 3206,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3182,
+      "offset": 3229,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3271,
+      "length": 10,
+      "value": "\"fcmToken\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3297,
       "length": 2,
       "value": "\"\""
     },
@@ -4682,6 +4703,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/FormFields\/DropdownSearchField.swift",
+      "kind": "BooleanLiteral",
+      "offset": 336,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/FormFields\/MultilineInputField.swift",
       "kind": "BooleanLiteral",
       "offset": 218,
@@ -4971,14 +4999,14 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/AgentAvatarSection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2768,
+      "offset": 3327,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/AgentAvatarSection.swift",
       "kind": "BooleanLiteral",
-      "offset": 5076,
+      "offset": 5635,
       "length": 5,
       "value": "false"
     },
@@ -5062,14 +5090,14 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/BcButton.swift",
       "kind": "BooleanLiteral",
-      "offset": 202,
+      "offset": 159,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/BcButton.swift",
       "kind": "BooleanLiteral",
-      "offset": 246,
+      "offset": 203,
       "length": 5,
       "value": "false"
     },
@@ -6427,21 +6455,21 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "BooleanLiteral",
-      "offset": 1122,
+      "offset": 1595,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "BooleanLiteral",
-      "offset": 1358,
+      "offset": 1831,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "BooleanLiteral",
-      "offset": 4411,
+      "offset": 4983,
       "length": 4,
       "value": "true"
     },
@@ -8996,744 +9024,674 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11151,
+      "offset": 11356,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11155,
+      "offset": 11360,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11167,
+      "offset": 11372,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11171,
+      "offset": 11376,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11182,
+      "offset": 11387,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11186,
+      "offset": 11391,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 11198,
+      "offset": 11403,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11231,
+      "offset": 11436,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11235,
+      "offset": 11440,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11247,
+      "offset": 11452,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11251,
+      "offset": 11456,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11262,
+      "offset": 11467,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11266,
+      "offset": 11471,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 11278,
+      "offset": 11483,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11622,
+      "offset": 11827,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11626,
+      "offset": 11831,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11638,
+      "offset": 11843,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11642,
+      "offset": 11847,
       "length": 3,
       "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11653,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11657,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 11669,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11702,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11706,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11718,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11722,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11733,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11737,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 11749,
-      "length": 3,
-      "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
       "offset": 11858,
-      "length": 2,
-      "value": "23"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11861,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11873,
-      "length": 3,
-      "value": "178"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11877,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11888,
-      "length": 3,
-      "value": "106"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11892,
+      "offset": 11862,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 11904,
+      "offset": 11874,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11937,
-      "length": 2,
-      "value": "23"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11940,
+      "offset": 11907,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11952,
-      "length": 3,
-      "value": "178"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11956,
+      "offset": 11911,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11967,
+      "offset": 11923,
       "length": 3,
-      "value": "106"
+      "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 11971,
+      "offset": 11927,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11938,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11942,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 11983,
+      "offset": 11954,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12087,
+      "offset": 12063,
+      "length": 2,
+      "value": "23"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12066,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12078,
+      "length": 3,
+      "value": "178"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12082,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12093,
+      "length": 3,
+      "value": "106"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12097,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 12109,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12142,
+      "length": 2,
+      "value": "23"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12145,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12157,
+      "length": 3,
+      "value": "178"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12161,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12172,
+      "length": 3,
+      "value": "106"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12176,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 12188,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12292,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12090,
+      "offset": 12295,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12104,
+      "offset": 12309,
       "length": 2,
       "value": "64"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12107,
+      "offset": 12312,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12120,
+      "offset": 12325,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12123,
+      "offset": 12328,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12137,
+      "offset": 12342,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12170,
+      "offset": 12375,
       "length": 3,
       "value": "206"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12174,
+      "offset": 12379,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12188,
+      "offset": 12393,
       "length": 3,
       "value": "207"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12192,
+      "offset": 12397,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12205,
+      "offset": 12410,
       "length": 3,
       "value": "210"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12209,
+      "offset": 12414,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12223,
+      "offset": 12428,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12327,
+      "offset": 12532,
       "length": 2,
       "value": "71"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12330,
+      "offset": 12535,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12344,
+      "offset": 12549,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12347,
+      "offset": 12552,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12360,
+      "offset": 12565,
       "length": 3,
       "value": "103"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12364,
+      "offset": 12569,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12378,
+      "offset": 12583,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12411,
+      "offset": 12616,
       "length": 3,
       "value": "148"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12415,
+      "offset": 12620,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12429,
+      "offset": 12634,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12433,
+      "offset": 12638,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12446,
+      "offset": 12651,
       "length": 3,
       "value": "156"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12450,
+      "offset": 12655,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12464,
+      "offset": 12669,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12569,
+      "offset": 12774,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12573,
+      "offset": 12778,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12587,
+      "offset": 12792,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12591,
+      "offset": 12796,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12604,
+      "offset": 12809,
       "length": 3,
       "value": "133"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12608,
+      "offset": 12813,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12622,
+      "offset": 12827,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12655,
+      "offset": 12860,
       "length": 3,
       "value": "148"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12659,
+      "offset": 12864,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12673,
+      "offset": 12878,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12677,
+      "offset": 12882,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12690,
+      "offset": 12895,
       "length": 3,
       "value": "156"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12694,
+      "offset": 12899,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12708,
+      "offset": 12913,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12808,
+      "offset": 13013,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12812,
+      "offset": 13017,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12826,
+      "offset": 13031,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12830,
+      "offset": 13035,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12843,
+      "offset": 13048,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12847,
+      "offset": 13052,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12861,
+      "offset": 13066,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12894,
+      "offset": 13099,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12897,
+      "offset": 13102,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 12911,
+      "offset": 13116,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 12914,
+      "offset": 13119,
       "length": 5,
       "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12927,
-      "length": 2,
-      "value": "29"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 12930,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 12944,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13046,
-      "length": 3,
-      "value": "249"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 13050,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13064,
-      "length": 3,
-      "value": "250"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 13068,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13081,
-      "length": 3,
-      "value": "251"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 13085,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 13099,
-      "length": 3,
-      "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
       "offset": 13132,
       "length": 2,
-      "value": "22"
+      "value": "29"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
@@ -9744,1221 +9702,1214 @@
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
+      "kind": "FloatLiteral",
       "offset": 13149,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13251,
+      "length": 3,
+      "value": "249"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 13255,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13269,
+      "length": 3,
+      "value": "250"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 13273,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13286,
+      "length": 3,
+      "value": "251"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 13290,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 13304,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13337,
+      "length": 2,
+      "value": "22"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 13340,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13354,
       "length": 2,
       "value": "27"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13152,
+      "offset": 13357,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13165,
+      "offset": 13370,
       "length": 2,
       "value": "38"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13168,
+      "offset": 13373,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13182,
+      "offset": 13387,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13283,
+      "offset": 13488,
       "length": 3,
       "value": "242"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13287,
+      "offset": 13492,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13299,
+      "offset": 13504,
       "length": 3,
       "value": "244"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13303,
+      "offset": 13508,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13314,
+      "offset": 13519,
       "length": 3,
       "value": "247"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13318,
+      "offset": 13523,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13330,
+      "offset": 13535,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13363,
+      "offset": 13568,
       "length": 2,
       "value": "31"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13366,
+      "offset": 13571,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13378,
+      "offset": 13583,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13381,
+      "offset": 13586,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13392,
+      "offset": 13597,
       "length": 2,
       "value": "47"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13395,
+      "offset": 13600,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13407,
+      "offset": 13612,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13513,
+      "offset": 13718,
       "length": 3,
       "value": "234"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13517,
+      "offset": 13722,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13529,
+      "offset": 13734,
       "length": 3,
       "value": "236"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13533,
+      "offset": 13738,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13544,
+      "offset": 13749,
       "length": 3,
       "value": "240"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13548,
+      "offset": 13753,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13560,
+      "offset": 13765,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13593,
+      "offset": 13798,
       "length": 2,
       "value": "31"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13596,
+      "offset": 13801,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13608,
+      "offset": 13813,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13611,
+      "offset": 13816,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13622,
+      "offset": 13827,
       "length": 2,
       "value": "47"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13625,
+      "offset": 13830,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13637,
+      "offset": 13842,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13742,
+      "offset": 13947,
       "length": 3,
       "value": "242"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13746,
+      "offset": 13951,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13758,
+      "offset": 13963,
       "length": 3,
       "value": "244"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13762,
+      "offset": 13967,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13773,
+      "offset": 13978,
       "length": 3,
       "value": "247"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13777,
+      "offset": 13982,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13789,
+      "offset": 13994,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13822,
+      "offset": 14027,
       "length": 2,
       "value": "31"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13825,
+      "offset": 14030,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13837,
+      "offset": 14042,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13840,
+      "offset": 14045,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13851,
+      "offset": 14056,
       "length": 2,
       "value": "47"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 13854,
+      "offset": 14059,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 13866,
+      "offset": 14071,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14029,
+      "offset": 14234,
       "length": 3,
       "value": "217"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14033,
+      "offset": 14238,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14045,
+      "offset": 14250,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14048,
+      "offset": 14253,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14059,
+      "offset": 14264,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14062,
+      "offset": 14267,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 14074,
+      "offset": 14279,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14107,
+      "offset": 14312,
       "length": 3,
       "value": "249"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14111,
+      "offset": 14316,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14123,
+      "offset": 14328,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14127,
+      "offset": 14332,
       "length": 3,
       "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14138,
-      "length": 3,
-      "value": "102"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14142,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 14154,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14261,
-      "length": 3,
-      "value": "236"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14265,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14277,
-      "length": 3,
-      "value": "253"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14281,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14292,
-      "length": 3,
-      "value": "243"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14296,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 14308,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14341,
-      "length": 1,
-      "value": "4"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
       "offset": 14343,
       "length": 3,
-      "value": "255"
+      "value": "102"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14355,
-      "length": 2,
-      "value": "51"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14358,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14369,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14372,
+      "offset": 14347,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 14384,
+      "offset": 14359,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14491,
+      "offset": 14466,
+      "length": 3,
+      "value": "236"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14470,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14495,
+      "offset": 14482,
+      "length": 3,
+      "value": "253"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14486,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14507,
-      "length": 3,
-      "value": "250"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14511,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14522,
-      "length": 3,
-      "value": "235"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14526,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 14538,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14571,
-      "length": 3,
-      "value": "247"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14575,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14587,
-      "length": 3,
-      "value": "144"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14591,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14602,
-      "length": 1,
-      "value": "9"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14604,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 14616,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14721,
-      "length": 3,
-      "value": "254"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14725,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14737,
+      "offset": 14497,
       "length": 3,
       "value": "243"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14741,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14752,
-      "length": 3,
-      "value": "242"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14756,
+      "offset": 14501,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 14768,
+      "offset": 14513,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14801,
+      "offset": 14546,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14548,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14560,
       "length": 2,
-      "value": "85"
+      "value": "51"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14804,
+      "offset": 14563,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14816,
-      "length": 2,
-      "value": "22"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14819,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14830,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14833,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 14845,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14950,
-      "length": 3,
-      "value": "217"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14954,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14966,
-      "length": 2,
-      "value": "45"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14969,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14980,
+      "offset": 14574,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 14983,
+      "offset": 14577,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 14995,
+      "offset": 14589,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15028,
-      "length": 3,
-      "value": "240"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15032,
+      "offset": 14696,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15044,
-      "length": 2,
-      "value": "68"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15047,
+      "offset": 14700,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15058,
-      "length": 2,
-      "value": "56"
+      "offset": 14712,
+      "length": 3,
+      "value": "250"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15061,
+      "offset": 14716,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14727,
+      "length": 3,
+      "value": "235"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14731,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 15073,
+      "offset": 14743,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15180,
+      "offset": 14776,
+      "length": 3,
+      "value": "247"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14780,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14792,
+      "length": 3,
+      "value": "144"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14796,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14807,
       "length": 1,
-      "value": "7"
+      "value": "9"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15182,
+      "offset": 14809,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 14821,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14926,
+      "length": 3,
+      "value": "254"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14930,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15194,
+      "offset": 14942,
       "length": 3,
-      "value": "148"
+      "value": "243"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15198,
+      "offset": 14946,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15209,
+      "offset": 14957,
+      "length": 3,
+      "value": "242"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14961,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 14973,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15006,
       "length": 2,
       "value": "85"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15212,
+      "offset": 15009,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15021,
+      "length": 2,
+      "value": "22"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15024,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15035,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15038,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 15224,
+      "offset": 15050,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15257,
+      "offset": 15155,
+      "length": 3,
+      "value": "217"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15159,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15171,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15174,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15185,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15188,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 15200,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15233,
+      "length": 3,
+      "value": "240"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15237,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15249,
+      "length": 2,
+      "value": "68"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15252,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15263,
+      "length": 2,
+      "value": "56"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15266,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 15278,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15385,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15387,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15399,
+      "length": 3,
+      "value": "148"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15403,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15414,
+      "length": 2,
+      "value": "85"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15417,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 15429,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15462,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15260,
+      "offset": 15465,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15272,
+      "offset": 15477,
       "length": 3,
       "value": "178"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15276,
+      "offset": 15481,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15287,
+      "offset": 15492,
       "length": 3,
       "value": "106"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15291,
+      "offset": 15496,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 15303,
+      "offset": 15508,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15409,
+      "offset": 15614,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15413,
+      "offset": 15618,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15425,
+      "offset": 15630,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15429,
+      "offset": 15634,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15440,
+      "offset": 15645,
       "length": 3,
       "value": "133"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15444,
+      "offset": 15649,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 15456,
+      "offset": 15661,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15489,
+      "offset": 15694,
       "length": 3,
       "value": "133"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15493,
+      "offset": 15698,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15505,
+      "offset": 15710,
       "length": 3,
       "value": "136"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15509,
+      "offset": 15714,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15520,
+      "offset": 15725,
       "length": 3,
       "value": "142"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15524,
+      "offset": 15729,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 15536,
+      "offset": 15741,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15641,
+      "offset": 15846,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15644,
+      "offset": 15849,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15656,
+      "offset": 15861,
       "length": 2,
       "value": "34"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15659,
+      "offset": 15864,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15670,
+      "offset": 15875,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15673,
+      "offset": 15878,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 15685,
+      "offset": 15890,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15718,
+      "offset": 15923,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15721,
+      "offset": 15926,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15733,
+      "offset": 15938,
       "length": 2,
       "value": "34"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15736,
+      "offset": 15941,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15747,
+      "offset": 15952,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15750,
+      "offset": 15955,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 15762,
+      "offset": 15967,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15958,
+      "offset": 16163,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15962,
+      "offset": 16167,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15974,
+      "offset": 16179,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 15978,
+      "offset": 16183,
       "length": 3,
       "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15989,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15993,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 16005,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16038,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16042,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16054,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16058,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16069,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16073,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 16085,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16192,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
@@ -10970,1561 +10921,1638 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16206,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16208,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16219,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16221,
+      "offset": 16198,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16233,
-      "length": 3,
-      "value": "0.1"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16266,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16270,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16282,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16286,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16297,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16301,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 16313,
-      "length": 3,
-      "value": "0.1"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16417,
-      "length": 3,
-      "value": "208"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16421,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16433,
-      "length": 3,
-      "value": "213"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16437,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16448,
-      "length": 3,
-      "value": "221"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16452,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 16464,
+      "offset": 16210,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16497,
+      "offset": 16243,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16247,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16259,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16263,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16274,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16278,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 16290,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16397,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16399,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16411,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16413,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16424,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16426,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 16438,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16471,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16475,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16487,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16491,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16502,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16506,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 16518,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16622,
+      "length": 3,
+      "value": "208"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16626,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16638,
+      "length": 3,
+      "value": "213"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16642,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16653,
+      "length": 3,
+      "value": "221"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16657,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 16669,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16702,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16500,
+      "offset": 16705,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16512,
+      "offset": 16717,
       "length": 2,
       "value": "55"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16515,
+      "offset": 16720,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16526,
+      "offset": 16731,
       "length": 2,
       "value": "65"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16529,
+      "offset": 16734,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16541,
+      "offset": 16746,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16643,
+      "offset": 16848,
       "length": 3,
       "value": "253"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16647,
+      "offset": 16852,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16661,
+      "offset": 16866,
       "length": 3,
       "value": "162"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16665,
+      "offset": 16870,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16678,
+      "offset": 16883,
       "length": 3,
       "value": "155"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16682,
+      "offset": 16887,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16696,
+      "offset": 16901,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16729,
+      "offset": 16934,
       "length": 3,
       "value": "249"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16733,
+      "offset": 16938,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16747,
+      "offset": 16952,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16751,
+      "offset": 16956,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16764,
+      "offset": 16969,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16768,
+      "offset": 16973,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16782,
+      "offset": 16987,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16881,
+      "offset": 17086,
       "length": 3,
       "value": "208"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16885,
+      "offset": 17090,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16899,
+      "offset": 17104,
       "length": 3,
       "value": "213"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16903,
+      "offset": 17108,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16916,
+      "offset": 17121,
       "length": 3,
       "value": "221"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16920,
+      "offset": 17125,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16934,
+      "offset": 17139,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16967,
+      "offset": 17172,
       "length": 2,
       "value": "97"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16970,
+      "offset": 17175,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 16984,
+      "offset": 17189,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 16988,
+      "offset": 17193,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17001,
+      "offset": 17206,
       "length": 3,
       "value": "108"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17005,
+      "offset": 17210,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17019,
+      "offset": 17224,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17122,
+      "offset": 17327,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17126,
+      "offset": 17331,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17140,
+      "offset": 17345,
       "length": 3,
       "value": "112"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17144,
+      "offset": 17349,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17157,
+      "offset": 17362,
       "length": 3,
       "value": "133"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17161,
+      "offset": 17366,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17175,
+      "offset": 17380,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17208,
+      "offset": 17413,
       "length": 3,
       "value": "148"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17212,
+      "offset": 17417,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17226,
+      "offset": 17431,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17230,
+      "offset": 17435,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17243,
+      "offset": 17448,
       "length": 3,
       "value": "156"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17247,
+      "offset": 17452,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17261,
+      "offset": 17466,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17361,
+      "offset": 17566,
       "length": 3,
       "value": "152"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17365,
+      "offset": 17570,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17377,
+      "offset": 17582,
       "length": 3,
       "value": "161"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17381,
+      "offset": 17586,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17392,
+      "offset": 17597,
       "length": 3,
       "value": "178"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17396,
+      "offset": 17601,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17408,
+      "offset": 17613,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17452,
+      "offset": 17657,
       "length": 3,
       "value": "133"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17456,
+      "offset": 17661,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17468,
+      "offset": 17673,
       "length": 3,
       "value": "136"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17472,
+      "offset": 17677,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17483,
+      "offset": 17688,
       "length": 3,
       "value": "142"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17487,
+      "offset": 17692,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17499,
+      "offset": 17704,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17613,
+      "offset": 17818,
       "length": 2,
       "value": "71"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17616,
+      "offset": 17821,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17628,
+      "offset": 17833,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17631,
+      "offset": 17836,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17642,
+      "offset": 17847,
       "length": 3,
       "value": "103"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17646,
+      "offset": 17851,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17658,
+      "offset": 17863,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17691,
+      "offset": 17896,
       "length": 2,
       "value": "71"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17694,
+      "offset": 17899,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17706,
+      "offset": 17911,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17709,
+      "offset": 17914,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17720,
+      "offset": 17925,
       "length": 3,
       "value": "103"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17724,
+      "offset": 17929,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17736,
+      "offset": 17941,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17838,
+      "offset": 18043,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17841,
+      "offset": 18046,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17853,
+      "offset": 18058,
       "length": 2,
       "value": "64"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17856,
+      "offset": 18061,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17867,
+      "offset": 18072,
       "length": 2,
       "value": "84"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17870,
+      "offset": 18075,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17882,
+      "offset": 18087,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17928,
+      "offset": 18133,
       "length": 3,
       "value": "206"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17932,
+      "offset": 18137,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17944,
+      "offset": 18149,
       "length": 3,
       "value": "207"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17948,
+      "offset": 18153,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17959,
+      "offset": 18164,
       "length": 3,
       "value": "210"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 17963,
+      "offset": 18168,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 17975,
+      "offset": 18180,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18088,
+      "offset": 18293,
       "length": 3,
       "value": "152"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18092,
+      "offset": 18297,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18106,
+      "offset": 18311,
       "length": 3,
       "value": "162"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18110,
+      "offset": 18315,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18123,
+      "offset": 18328,
       "length": 3,
       "value": "179"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18127,
+      "offset": 18332,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18141,
+      "offset": 18346,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18185,
+      "offset": 18390,
       "length": 3,
       "value": "133"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18189,
+      "offset": 18394,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18203,
+      "offset": 18408,
       "length": 3,
       "value": "136"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18207,
+      "offset": 18412,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18220,
+      "offset": 18425,
       "length": 3,
       "value": "142"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18224,
+      "offset": 18429,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18238,
+      "offset": 18443,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18356,
+      "offset": 18561,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18360,
+      "offset": 18565,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18374,
+      "offset": 18579,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18378,
+      "offset": 18583,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18391,
+      "offset": 18596,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18395,
+      "offset": 18600,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18409,
+      "offset": 18614,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18442,
+      "offset": 18647,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18445,
+      "offset": 18650,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18459,
+      "offset": 18664,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18462,
+      "offset": 18667,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18475,
+      "offset": 18680,
       "length": 2,
       "value": "29"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18478,
+      "offset": 18683,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18492,
+      "offset": 18697,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18597,
+      "offset": 18802,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18599,
+      "offset": 18804,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18613,
+      "offset": 18818,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18615,
+      "offset": 18820,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18628,
+      "offset": 18833,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18630,
+      "offset": 18835,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18644,
+      "offset": 18849,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18677,
+      "offset": 18882,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18679,
+      "offset": 18884,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18693,
+      "offset": 18898,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18695,
+      "offset": 18900,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18708,
+      "offset": 18913,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18710,
+      "offset": 18915,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18724,
+      "offset": 18929,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18831,
+      "offset": 19036,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18834,
+      "offset": 19039,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18848,
+      "offset": 19053,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18851,
+      "offset": 19056,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18864,
+      "offset": 19069,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18867,
+      "offset": 19072,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 18881,
+      "offset": 19086,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 18914,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 18917,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18931,
-      "length": 2,
-      "value": "24"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 18934,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18947,
-      "length": 2,
-      "value": "40"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 18950,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 18964,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19080,
-      "length": 3,
-      "value": "247"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 19084,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19098,
-      "length": 3,
-      "value": "187"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 19102,
-      "length": 5,
-      "value": "255.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19115,
-      "length": 3,
-      "value": "204"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
       "offset": 19119,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 19122,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19136,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 19139,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19152,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 19155,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19133,
+      "offset": 19169,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19181,
+      "offset": 19285,
       "length": 3,
       "value": "247"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19185,
+      "offset": 19289,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19199,
+      "offset": 19303,
       "length": 3,
       "value": "187"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19203,
+      "offset": 19307,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19216,
+      "offset": 19320,
       "length": 3,
       "value": "204"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19220,
+      "offset": 19324,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19234,
+      "offset": 19338,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19362,
+      "offset": 19386,
+      "length": 3,
+      "value": "247"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 19390,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19404,
+      "length": 3,
+      "value": "187"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 19408,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19421,
+      "length": 3,
+      "value": "204"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 19425,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 19439,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19567,
       "length": 3,
       "value": "114"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19366,
+      "offset": 19571,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19380,
+      "offset": 19585,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19383,
+      "offset": 19588,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19396,
+      "offset": 19601,
       "length": 2,
       "value": "42"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19399,
+      "offset": 19604,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19413,
+      "offset": 19618,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19461,
+      "offset": 19666,
       "length": 3,
       "value": "114"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19465,
+      "offset": 19670,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19479,
+      "offset": 19684,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19482,
+      "offset": 19687,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19495,
+      "offset": 19700,
       "length": 2,
       "value": "42"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19498,
+      "offset": 19703,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19512,
+      "offset": 19717,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19624,
+      "offset": 19829,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19628,
+      "offset": 19833,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19640,
+      "offset": 19845,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19644,
+      "offset": 19849,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19655,
+      "offset": 19860,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19659,
+      "offset": 19864,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19671,
+      "offset": 19876,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19704,
+      "offset": 19909,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19707,
+      "offset": 19912,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19719,
+      "offset": 19924,
       "length": 2,
       "value": "17"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19722,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19733,
-      "length": 2,
-      "value": "29"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19736,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 19748,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19850,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19853,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19865,
-      "length": 2,
-      "value": "24"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19868,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19879,
-      "length": 2,
-      "value": "40"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19882,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "FloatLiteral",
-      "offset": 19894,
-      "length": 3,
-      "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
       "offset": 19927,
       "length": 3,
-      "value": "245"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19931,
-      "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19943,
-      "length": 3,
-      "value": "245"
+      "offset": 19938,
+      "length": 2,
+      "value": "29"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 19947,
-      "length": 3,
-      "value": "255"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19958,
-      "length": 3,
-      "value": "246"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19962,
+      "offset": 19941,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "FloatLiteral",
-      "offset": 19974,
+      "offset": 19953,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
       "kind": "IntegerLiteral",
-      "offset": 20982,
+      "offset": 20055,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20058,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20070,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20073,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20084,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20087,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 20099,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20132,
+      "length": 3,
+      "value": "245"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20136,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20148,
+      "length": 3,
+      "value": "245"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20152,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20163,
+      "length": 3,
+      "value": "246"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20167,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "FloatLiteral",
+      "offset": 20179,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Theme\/ColorTheme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21187,
       "length": 2,
       "value": "30"
     },
@@ -13006,8 +13034,15 @@
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
+      "kind": "StringLiteral",
+      "offset": 2248,
+      "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "IntegerLiteral",
-      "offset": 2416,
+      "offset": 2454,
       "length": 2,
       "value": "16"
     },
@@ -13315,168 +13350,175 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "BooleanLiteral",
-      "offset": 896,
+      "offset": 683,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 956,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21150,
+      "offset": 21923,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21353,
+      "offset": 22126,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21365,
+      "offset": 22138,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21610,
+      "offset": 22383,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "StringLiteral",
-      "offset": 21774,
+      "offset": 22547,
       "length": 39,
       "value": "\"(\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "StringLiteral",
-      "offset": 21811,
+      "offset": 22584,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22381,
+      "offset": 23154,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22412,
+      "offset": 23185,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22439,
+      "offset": 23212,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22502,
+      "offset": 23275,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22566,
+      "offset": 23339,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22627,
+      "offset": 23400,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22687,
+      "offset": 23460,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22690,
+      "offset": 23463,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22702,
+      "offset": 23475,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22705,
+      "offset": 23478,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22716,
+      "offset": 23489,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22719,
+      "offset": 23492,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "FloatLiteral",
-      "offset": 22732,
+      "offset": 23505,
       "length": 4,
       "value": "0.13"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22759,
+      "offset": 23532,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22777,
+      "offset": 23550,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22795,
+      "offset": 23568,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatMessageView.swift",
       "kind": "BooleanLiteral",
-      "offset": 45862,
+      "offset": 47986,
       "length": 5,
       "value": "false"
     },
@@ -13504,7 +13546,7 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ChatView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22237,
+      "offset": 22517,
       "length": 1,
       "value": "0"
     },
@@ -13546,28 +13588,28 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15801,
+      "offset": 18020,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15842,
+      "offset": 18061,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15884,
+      "offset": 18103,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15929,
+      "offset": 18148,
       "length": 2,
       "value": "12"
     },
@@ -13658,70 +13700,70 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12074,
+      "offset": 13892,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12106,
+      "offset": 13924,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12147,
+      "offset": 13965,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12267,
+      "offset": 14123,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12292,
+      "offset": 14148,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12326,
+      "offset": 14182,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13795,
+      "offset": 15748,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15507,
+      "offset": 17460,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15799,
+      "offset": 17752,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15824,
+      "offset": 17777,
       "length": 1,
       "value": "1"
     },
@@ -13860,169 +13902,253 @@
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2275,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2323,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2383,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2436,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2260,
+      "offset": 2475,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2298,
+      "offset": 2513,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2339,
+      "offset": 2554,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2379,
+      "offset": 2594,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2415,
+      "offset": 2630,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2454,
+      "offset": 2669,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2484,
+      "offset": 2699,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2511,
+      "offset": 2733,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2764,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "Array",
-      "offset": 2681,
+      "offset": 2934,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3146,
+      "offset": 3399,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "Dictionary",
-      "offset": 3277,
+      "offset": 3530,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3373,
+      "offset": 3626,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "Array",
-      "offset": 3427,
+      "offset": 3680,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3530,
+      "offset": 3783,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 36409,
-      "length": 4,
-      "value": "true"
+      "kind": "IntegerLiteral",
+      "offset": 3808,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 41834,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 41862,
-      "length": 5,
-      "value": "false"
+      "kind": "IntegerLiteral",
+      "offset": 3828,
+      "length": 2,
+      "value": "15"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 70154,
+      "offset": 3859,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 71888,
+      "offset": 4192,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 71923,
+      "offset": 17335,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18788,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 39264,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 45814,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 45842,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 92939,
+      "offset": 85167,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 94448,
+      "offset": 85192,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 160992,
+      "offset": 87226,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 163275,
+      "offset": 87261,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 107854,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 109363,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 177860,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 180143,
       "length": 5,
       "value": "false"
     },
