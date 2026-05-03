@@ -5520,56 +5520,49 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Carousel.swift",
       "kind": "StringLiteral",
-      "offset": 9801,
-      "length": 16,
-      "value": "\"View Product 3\""
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Carousel.swift",
-      "kind": "StringLiteral",
-      "offset": 9862,
+      "offset": 9838,
       "length": 16,
       "value": "\"View Product 1\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Carousel.swift",
       "kind": "StringLiteral",
-      "offset": 9917,
+      "offset": 9893,
       "length": 15,
       "value": "\"Buy Product 2\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Carousel.swift",
       "kind": "StringLiteral",
-      "offset": 9995,
+      "offset": 9971,
       "length": 103,
       "value": "\"https:\/\/www.shutterstock.com\/image-vector\/modern-education-digital-learning-tiny-260nw-2492839703.jpg\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Carousel.swift",
       "kind": "StringLiteral",
-      "offset": 10119,
+      "offset": 10095,
       "length": 11,
       "value": "\"Product 3\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Carousel.swift",
       "kind": "StringLiteral",
-      "offset": 10173,
+      "offset": 10149,
       "length": 64,
       "value": "\"Product description product description product description...\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Carousel.swift",
       "kind": "StringLiteral",
-      "offset": 10279,
+      "offset": 10255,
       "length": 16,
       "value": "\"View Product 3\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Carousel.swift",
       "kind": "StringLiteral",
-      "offset": 10371,
+      "offset": 10347,
       "length": 15,
       "value": "\"Buy Product 3\""
     },
@@ -5597,196 +5590,196 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "Array",
-      "offset": 2696,
+      "offset": 2543,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3289,
+      "offset": 3136,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "FloatLiteral",
-      "offset": 3318,
+      "offset": 3165,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3369,
+      "offset": 3216,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "FloatLiteral",
-      "offset": 3398,
+      "offset": 3245,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5184,
+      "offset": 5031,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5259,
+      "offset": 5106,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5410,
+      "offset": 5257,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5454,
+      "offset": 5301,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5497,
+      "offset": 5344,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5539,
+      "offset": 5386,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5574,
+      "offset": 5421,
       "length": 3,
       "value": "280"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5670,
+      "offset": 5517,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5681,
+      "offset": 5528,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "FloatLiteral",
-      "offset": 5721,
+      "offset": 5568,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5762,
+      "offset": 5609,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5813,
+      "offset": 5660,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5825,
+      "offset": 5672,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5877,
+      "offset": 5724,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "FloatLiteral",
-      "offset": 6124,
+      "offset": 5971,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "FloatLiteral",
-      "offset": 6185,
+      "offset": 6032,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7775,
+      "offset": 7622,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7781,
+      "offset": 7628,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7815,
+      "offset": 7662,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "StringLiteral",
-      "offset": 9567,
+      "offset": 9414,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9827,
+      "offset": 9674,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "IntegerLiteral",
-      "offset": 29799,
+      "offset": 29646,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/HTMLTooltipView.swift",
       "kind": "BooleanLiteral",
-      "offset": 30700,
+      "offset": 30547,
       "length": 5,
       "value": "false"
     },
