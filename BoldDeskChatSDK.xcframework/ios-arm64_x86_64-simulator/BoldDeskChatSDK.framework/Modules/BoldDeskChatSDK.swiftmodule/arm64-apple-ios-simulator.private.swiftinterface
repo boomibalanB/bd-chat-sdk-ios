@@ -6,6 +6,7 @@ import AVFoundation
 import Combine
 import CoreText
 import Foundation
+import ImageIO
 import Network
 import Swift
 import SwiftUI
@@ -87,8 +88,6 @@ public enum SDKTheme {
   }
   public typealias Body = @_opaqueReturnTypeOf("$s15BoldDeskChatSDK17DateTimeFieldViewV4bodyQrvp", 0) __
 }
-
-
 
 
 public enum ResourceManager {
