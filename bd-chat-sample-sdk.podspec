@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "bd-chat-sample-sdk"
-  s.version          = "2.0.0"
+  s.version          = "2.0.1"
   s.summary          = "BoldDesk Support SDK"
   s.description      = <<-DESC
                            The BoldDesk Mobile Support SDK enables you to integrate a fully functional help center directly into your mobile application. This allows end-users to access support tickets and Knowledge Base (KB) articles inside the app.
@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = "BoldDeskChatSDK.xcframework"
   s.swift_version    = "5.3"
-  s.dependency 'bd-support-sdk-sample', '~> 4.0.0'
+  s.dependency 'bd-support-sdk-sample', '~> 4.0.4'
 end
