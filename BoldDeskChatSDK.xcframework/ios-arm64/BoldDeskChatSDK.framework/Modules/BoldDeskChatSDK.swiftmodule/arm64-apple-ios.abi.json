@@ -501,159 +501,6 @@
           },
           {
             "kind": "Var",
-            "name": "fields",
-            "printedName": "fields",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "[Swift.String : Any]?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Dictionary",
-                    "printedName": "[Swift.String : Any]",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "ProtocolComposition",
-                        "printedName": "Any"
-                      }
-                    ],
-                    "usr": "s:SD"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:15BoldDeskChatSDK06BDChatD0V6fieldsSDySSypGSgvpZ",
-            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V6fieldsSDySSypGSgvpZ",
-            "moduleName": "BoldDeskChatSDK",
-            "static": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "[Swift.String : Any]?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Dictionary",
-                        "printedName": "[Swift.String : Any]",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "ProtocolComposition",
-                            "printedName": "Any"
-                          }
-                        ],
-                        "usr": "s:SD"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:15BoldDeskChatSDK06BDChatD0V6fieldsSDySSypGSgvgZ",
-                "mangledName": "$s15BoldDeskChatSDK06BDChatD0V6fieldsSDySSypGSgvgZ",
-                "moduleName": "BoldDeskChatSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "[Swift.String : Any]?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Dictionary",
-                        "printedName": "[Swift.String : Any]",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "ProtocolComposition",
-                            "printedName": "Any"
-                          }
-                        ],
-                        "usr": "s:SD"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:15BoldDeskChatSDK06BDChatD0V6fieldsSDySSypGSgvsZ",
-                "mangledName": "$s15BoldDeskChatSDK06BDChatD0V6fieldsSDySSypGSgvsZ",
-                "moduleName": "BoldDeskChatSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:15BoldDeskChatSDK06BDChatD0V6fieldsSDySSypGSgvMZ",
-                "mangledName": "$s15BoldDeskChatSDK06BDChatD0V6fieldsSDySSypGSgvMZ",
-                "moduleName": "BoldDeskChatSDK",
-                "static": true,
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
             "name": "fcmToken",
             "printedName": "fcmToken",
             "children": [
@@ -1491,6 +1338,90 @@
             "declKind": "Func",
             "usr": "s:15BoldDeskChatSDK06BDChatD0V16setPrefillFields5email4name7phoneNo6fieldsySSSg_A2ISDySSypGSgtFZ",
             "mangledName": "$s15BoldDeskChatSDK06BDChatD0V16setPrefillFields5email4name7phoneNo6fieldsySSSg_A2ISDySSypGSgtFZ",
+            "moduleName": "BoldDeskChatSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setTicketFields",
+            "printedName": "setTicketFields(fields:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15BoldDeskChatSDK06BDChatD0V15setTicketFields6fieldsySDySSypGSg_tFZ",
+            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V15setTicketFields6fieldsySDySSypGSg_tFZ",
+            "moduleName": "BoldDeskChatSDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setInitialPage",
+            "printedName": "setInitialPage(initialPage:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15BoldDeskChatSDK06BDChatD0V14setInitialPage07initialH0ySiSg_tFZ",
+            "mangledName": "$s15BoldDeskChatSDK06BDChatD0V14setInitialPage07initialH0ySiSg_tFZ",
             "moduleName": "BoldDeskChatSDK",
             "static": true,
             "declAttributes": [
@@ -3754,6 +3685,16 @@
       },
       {
         "kind": "Import",
+        "name": "BoldDeskSupportSDK",
+        "printedName": "BoldDeskSupportSDK",
+        "declKind": "Import",
+        "moduleName": "BoldDeskChatSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -3979,6 +3920,20 @@
       },
       {
         "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "BoldDeskChatSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BoldDeskChatSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4015,49 +3970,42 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
       "kind": "BooleanLiteral",
+      "offset": 1111,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
+      "kind": "StringLiteral",
       "offset": 1156,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
-      "kind": "StringLiteral",
-      "offset": 1201,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
       "kind": "StringLiteral",
-      "offset": 1245,
+      "offset": 1200,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1303,
+      "offset": 1243,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1349,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1410,
+      "offset": 1304,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/BDChatSDK\/BDChatSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 14461,
+      "offset": 14567,
       "length": 1,
       "value": "0"
     },
@@ -4169,205 +4117,219 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "IntegerLiteral",
-      "offset": 2052,
+      "offset": 2050,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2157,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2098,
+      "offset": 2203,
       "length": 27,
       "value": "\"https:\/\/www.bolddesk.com\/\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "Array",
-      "offset": 2163,
+      "offset": 2268,
       "length": 44,
       "value": "[\"emailId\", \"contactName\", \"contactPhoneNo\"]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2236,
+      "offset": 2341,
       "length": 64,
       "value": "\"https:\/\/97c1fba6823e91af7c8520a419ef99cb@logs.bolddesk.com\/137\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2331,
-      "length": 12,
-      "value": "\"production\""
+      "offset": 2436,
+      "length": 13,
+      "value": "\"development\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2373,
+      "offset": 2479,
       "length": 7,
-      "value": "\"2.0.1\""
+      "value": "\"1.0.0\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2407,
+      "offset": 2513,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2441,
+      "offset": 2547,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2471,
+      "offset": 2577,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2505,
+      "offset": 2611,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2590,
+      "offset": 2696,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2628,
+      "offset": 2734,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2669,
+      "offset": 2775,
       "length": 92,
       "value": "\"https:\/\/storage.googleapis.com\/cdn-bolddesk\/agent-angular-app\/images\/bold-desk-logo_v1.png\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2783,
+      "offset": 2889,
       "length": 13,
       "value": "\"buttonColor\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2812,
+      "offset": 2918,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2860,
+      "offset": 2966,
       "length": 21,
       "value": "\"chatBackgroundColor\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2897,
+      "offset": 3003,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2953,
+      "offset": 3059,
       "length": 13,
       "value": "\"appBarColor\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 2982,
+      "offset": 3088,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3030,
+      "offset": 3136,
       "length": 19,
       "value": "\"stickyButtonColor\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3065,
+      "offset": 3171,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3119,
+      "offset": 3225,
       "length": 20,
       "value": "\"customThemeApplied\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3155,
+      "offset": 3261,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3203,
+      "offset": 3309,
       "length": 14,
       "value": "\"languageCode\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3233,
+      "offset": 3339,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3282,
+      "offset": 3388,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3305,
+      "offset": 3411,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3347,
+      "offset": 3453,
       "length": 10,
       "value": "\"fcmToken\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
       "kind": "StringLiteral",
-      "offset": 3373,
+      "offset": 3479,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/Constants\/AppConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 3524,
+      "length": 13,
+      "value": "\"initialPage\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/FormFields\/MultiSelectDropdown\/BottomSheetMultiPicker.swift",
@@ -5842,42 +5804,49 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/URLImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 218,
+      "offset": 120,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/URLImage.swift",
+      "kind": "BooleanLiteral",
+      "offset": 256,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/URLImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 267,
+      "offset": 305,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/URLImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 341,
+      "offset": 379,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/URLImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 4465,
+      "offset": 5081,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/URLImage.swift",
       "kind": "FloatLiteral",
-      "offset": 4840,
+      "offset": 5456,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Common\/URLImage.swift",
       "kind": "FloatLiteral",
-      "offset": 4904,
+      "offset": 5520,
       "length": 3,
       "value": "1.0"
     },
@@ -7060,21 +7029,21 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Models\/SettingsModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 2434,
+      "offset": 2658,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Models\/SettingsModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 2452,
+      "offset": 2676,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Models\/SettingsModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 2479,
+      "offset": 2703,
       "length": 1,
       "value": "3"
     },
@@ -7123,35 +7092,35 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "IntegerLiteral",
-      "offset": 4874,
+      "offset": 5131,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "IntegerLiteral",
-      "offset": 4892,
+      "offset": 5149,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "BooleanLiteral",
-      "offset": 7548,
+      "offset": 7805,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "IntegerLiteral",
-      "offset": 13724,
+      "offset": 13981,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Service\/APIService.swift",
       "kind": "IntegerLiteral",
-      "offset": 13742,
+      "offset": 13999,
       "length": 1,
       "value": "4"
     },
@@ -13817,271 +13786,285 @@
       "kind": "StringLiteral",
       "offset": 1277,
       "length": 10,
-      "value": "\"\""
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
       "offset": 1308,
       "length": 10,
-      "value": "\"\""
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
       "offset": 1339,
       "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
+      "kind": "StringLiteral",
+      "offset": 1370,
+      "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1372,
+      "offset": 1403,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1408,
+      "offset": 1439,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1446,
+      "offset": 1477,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1478,
+      "offset": 1509,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1516,
+      "offset": 1547,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1545,
+      "offset": 1576,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1580,
+      "offset": 1611,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1620,
+      "offset": 1651,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1653,
+      "offset": 1684,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1683,
+      "offset": 1714,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1715,
+      "offset": 1746,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1750,
+      "offset": 1781,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1783,
+      "offset": 1814,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1814,
+      "offset": 1845,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1845,
+      "offset": 1876,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1872,
+      "offset": 1903,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1899,
+      "offset": 1930,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1929,
+      "offset": 1960,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1966,
+      "offset": 1997,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 1997,
+      "offset": 2028,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2028,
+      "offset": 2059,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2059,
+      "offset": 2090,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2086,
+      "offset": 2117,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2113,
+      "offset": 2144,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2142,
+      "offset": 2173,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2176,
+      "offset": 2207,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2210,
+      "offset": 2241,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2248,
+      "offset": 2279,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2285,
+      "offset": 2316,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2318,
+      "offset": 2349,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2347,
+      "offset": 2378,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2382,
+      "offset": 2413,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2412,
+      "offset": 2443,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2440,
+      "offset": 2471,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "StringLiteral",
-      "offset": 2472,
+      "offset": 2503,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
+      "kind": "StringLiteral",
+      "offset": 2534,
+      "length": 10,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/Util\/AppIcons.swift",
       "kind": "IntegerLiteral",
-      "offset": 2679,
+      "offset": 2740,
       "length": 2,
       "value": "16"
     },
@@ -14401,51 +14384,58 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/HomeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 301,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/HomeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 361,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/HomeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 403,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBCategoryListView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 189,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBCategoryListView.swift",
       "kind": "StringLiteral",
-      "offset": 210,
+      "offset": 239,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBCategoryListView.swift",
       "kind": "BooleanLiteral",
-      "offset": 263,
+      "offset": 292,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBCategoryListView.swift",
       "kind": "BooleanLiteral",
-      "offset": 371,
+      "offset": 400,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBHomeView.swift",
-      "kind": "StringLiteral",
-      "offset": 191,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBHomeView.swift",
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBCategoryListView.swift",
       "kind": "BooleanLiteral",
-      "offset": 242,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBHomeView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 300,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/KnowledgeBase\/KBHomeView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 404,
+      "offset": 626,
       "length": 5,
       "value": "false"
     },
@@ -14767,35 +14757,42 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "BooleanLiteral",
-      "offset": 840,
+      "offset": 1022,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1152,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "IntegerLiteral",
-      "offset": 30670,
+      "offset": 37210,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "IntegerLiteral",
-      "offset": 30711,
+      "offset": 37251,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "IntegerLiteral",
-      "offset": 30753,
+      "offset": 37293,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/ConversationListView.swift",
       "kind": "IntegerLiteral",
-      "offset": 30798,
+      "offset": 37338,
       "length": 2,
       "value": "12"
     },
@@ -14907,77 +14904,77 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13196,
+      "offset": 11459,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13228,
+      "offset": 11491,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13269,
+      "offset": 11532,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13427,
+      "offset": 11690,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13452,
+      "offset": 11715,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13486,
+      "offset": 11749,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15052,
+      "offset": 13315,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 15091,
+      "offset": 13354,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 21977,
+      "offset": 20240,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "BooleanLiteral",
-      "offset": 22269,
+      "offset": 20532,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/View\/HeaderView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22294,
+      "offset": 20557,
       "length": 1,
       "value": "1"
     },
@@ -15270,169 +15267,190 @@
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3644,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3684,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3712,
+      "offset": 3869,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "Dictionary",
-      "offset": 3843,
+      "offset": 4000,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3939,
+      "offset": 4096,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "Array",
-      "offset": 3993,
+      "offset": 4150,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4096,
+      "offset": 4253,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4121,
+      "offset": 4278,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4141,
+      "offset": 4298,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 4172,
+      "offset": 4329,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 4211,
+      "offset": 4368,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 4248,
+      "offset": 4405,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 4866,
+      "offset": 5070,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 21767,
+      "offset": 27074,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 23663,
+      "offset": 28970,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 50710,
+      "offset": 56242,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 57426,
+      "offset": 62958,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 57462,
+      "offset": 62994,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 101643,
+      "offset": 107830,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 101676,
+      "offset": 107863,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 103818,
+      "offset": 110005,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 103853,
+      "offset": 110040,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 129226,
+      "offset": 135577,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 130842,
+      "offset": 137252,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 213996,
+      "offset": 221087,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 221123,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/ChatViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 216398,
+      "offset": 227659,
       "length": 5,
       "value": "false"
     },
@@ -15447,6 +15465,41 @@
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/HeaderViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 162,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/HeaderViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 200,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/HomeViewModel.swift",
+      "kind": "Array",
+      "offset": 136,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/HomeViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 176,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/HomeViewModel.swift",
+      "kind": "Array",
+      "offset": 306,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/HomeViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 345,
       "length": 5,
       "value": "false"
     },
@@ -15467,44 +15520,9 @@
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/KnowledgeBaseViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 355,
+      "offset": 316,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/KnowledgeBaseViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 386,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/KnowledgeBaseViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 720,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/KnowledgeBaseViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 738,
-      "length": 3,
-      "value": "100"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/KnowledgeBaseViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 941,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/KnowledgeBaseViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 959,
-      "length": 1,
-      "value": "4"
     },
     {
       "filePath": "\/Users\/mohammedismailsameer\/Desktop\/BolddeskChatSDK\/BoldDeskChatSDK\/ViewModel\/PreChatFormViewModel.swift",

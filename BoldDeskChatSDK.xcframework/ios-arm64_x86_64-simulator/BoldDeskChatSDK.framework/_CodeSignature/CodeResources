@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FPL9GcHjpq8TU5+hxHU4CMV1r9s=
+		vC1QRbz2t3NU6esKk0nxfDzVGtc=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Fjlca/VLdSbgUZHU1IeTJNmW4/Y=
+		UcSBGz/J4kXCLQgOGVrSgGIhuF8=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Fjlca/VLdSbgUZHU1IeTJNmW4/Y=
+		UcSBGz/J4kXCLQgOGVrSgGIhuF8=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2U2qGqoN43CWS1QciiGMZnUOqpU=
+		y5RgIoRg+zStkZDR1q/GmkHSBcc=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FPL9GcHjpq8TU5+hxHU4CMV1r9s=
+		vC1QRbz2t3NU6esKk0nxfDzVGtc=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		eeLmG3mRUVYSEG/tJfCHGpJFEqY=
+		AIB2fS3b00lhXkNSvCOYJmif0Xs=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eeLmG3mRUVYSEG/tJfCHGpJFEqY=
+		AIB2fS3b00lhXkNSvCOYJmif0Xs=
 		</data>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		C6JjLrURdBzKJlW1SljpTnX4tDg=
+		/bxfhgdeJIowjKI1p4qiBRXog0k=
 		</data>
 		<key>ProfileIcon.png</key>
 		<data>
@@ -147,7 +147,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tX8DGQ/dzC6Gzz6+A5IkcP0sXDg=
+			AEkfJDyEMyaOu+etry5kS4K+KTE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -522,14 +522,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QJepYeY6PKFUvCDzMgtvdAeJWg2HSm9Fm5uZT2QiYbg=
+			8HDVkEkn9kg3k+x0nTwVA9ZL3eKkVG3KljtXtUEEj6E=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CMfM3EwPc/a6UuRaEu4FuSPiwZDugnOdcLNQZgaYmLE=
+			+hD6yPiR0qsWbnv2dpMMSEOH1tTYsXceT/PcL4h9SjI=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -543,28 +543,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CMfM3EwPc/a6UuRaEu4FuSPiwZDugnOdcLNQZgaYmLE=
+			+hD6yPiR0qsWbnv2dpMMSEOH1tTYsXceT/PcL4h9SjI=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l3q3wzG+pTaFxpV+E+Uv9DCH+z3ybhM1jaK9DQmienc=
+			abJ2s44Igi6DQU9dljojf58TPaceasDs6qhJvcSHe58=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QJepYeY6PKFUvCDzMgtvdAeJWg2HSm9Fm5uZT2QiYbg=
+			8HDVkEkn9kg3k+x0nTwVA9ZL3eKkVG3KljtXtUEEj6E=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4URyF9nBF5mMA/8bKBHZG0GJfGIYCY2l5j4a09JBINs=
+			C+7KDHV911wjL3d+r6z4ZZdHjGdjSdVEa796tQE195I=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -578,14 +578,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4URyF9nBF5mMA/8bKBHZG0GJfGIYCY2l5j4a09JBINs=
+			C+7KDHV911wjL3d+r6z4ZZdHjGdjSdVEa796tQE195I=
 			</data>
 		</dict>
 		<key>Modules/BoldDeskChatSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pE0Ff0qXeZXPGREBRodFulP/3xuNsIUTMFgs3vX9lOw=
+			j1g+EKerHGPOa+gaOZHVJX0JoDt7tbOaOjxlW0dnXZ8=
 			</data>
 		</dict>
 		<key>ProfileIcon.png</key>
@@ -676,7 +676,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R+UWen6TqXZ8FCYnCEn9zq5I58HrFIF/L1H3Pg2xe8c=
+			GahApfzLXk5EhSaYKZQqEvH+zHOD6NB+AlG35lvLAPw=
 			</data>
 			<key>optional</key>
 			<true/>

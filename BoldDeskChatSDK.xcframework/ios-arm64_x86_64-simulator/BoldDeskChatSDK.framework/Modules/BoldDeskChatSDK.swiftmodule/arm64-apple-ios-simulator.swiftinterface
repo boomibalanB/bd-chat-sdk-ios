@@ -23,7 +23,6 @@ public struct BDChatSDK {
   public static var email: Swift.String?
   public static var phoneNo: Swift.String?
   public static var userToken: Swift.String?
-  public static var fields: [Swift.String : Any]?
   public static var fcmToken: Swift.String?
   public static var customFontName: Swift.String?
   public static var applySystemFontSize: Swift.Bool
@@ -41,6 +40,12 @@ public struct BDChatSDK {
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
   public static func setPrefillFields(email: Swift.String? = nil, name: Swift.String? = nil, phoneNo: Swift.String? = nil, fields: [Swift.String : Any]? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func setTicketFields(fields: [Swift.String : Any]? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func setInitialPage(initialPage: Swift.Int?)
   #endif
   public static func setPlatform(sdkPlatform: Swift.String, sdkVersion: Swift.String)
   public static func setup()
