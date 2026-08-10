@@ -45,7 +45,7 @@ public struct BDChatSDK {
   public static func setTicketFields(fields: [Swift.String : Any]? = nil)
   #endif
   #if compiler(>=5.3) && $NonescapableTypes
-  public static func setInitialPage(initialPage: Swift.Int?)
+  public static func setInitialPage(initialPage: BoldDeskChatSDK.InitalPageOptions?)
   #endif
   public static func setPlatform(sdkPlatform: Swift.String, sdkVersion: Swift.String)
   public static func setup()
@@ -94,6 +94,18 @@ public enum SDKTheme {
   public typealias Body = @_opaqueReturnTypeOf("$s15BoldDeskChatSDK17DateTimeFieldViewV4bodyQrvp", 0) __
 }
 
+public enum InitalPageOptions : Swift.String, Swift.Decodable {
+  case home
+  case conversation
+  case help
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.String)
+  #endif
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
 
 public enum ResourceManager {
   public static var frameworkBundle: Foundation.Bundle {
@@ -109,3 +121,6 @@ extension BoldDeskChatSDK.SDKTheme : Swift.Equatable {}
 extension BoldDeskChatSDK.SDKTheme : Swift.Hashable {}
 extension BoldDeskChatSDK.DateFieldView : Swift.Sendable {}
 extension BoldDeskChatSDK.DateTimeFieldView : Swift.Sendable {}
+extension BoldDeskChatSDK.InitalPageOptions : Swift.Equatable {}
+extension BoldDeskChatSDK.InitalPageOptions : Swift.Hashable {}
+extension BoldDeskChatSDK.InitalPageOptions : Swift.RawRepresentable {}
